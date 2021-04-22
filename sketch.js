@@ -146,8 +146,8 @@ w.op = w.false
   w.sliderPan = w.createSlider(-1, 1, 0, 0.01)
   w.sliderAlpha = w.createSlider(0, 100, 90, 0.1)
 
-  w.stopButton = w.createButton("Stop")
-  w.stopButton.mousePressed(w.toggleSong)
+  //w.stopButton = w.createButton("Stop")
+  //w.stopButton.mousePressed(w.toggleSong)
 
   w.noStroke()    
   } 
