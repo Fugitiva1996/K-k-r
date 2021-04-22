@@ -6,12 +6,13 @@ background: linear-gradient(20deg, rgb(140, 137, 206) 0%, rgb(177, 114, 175) 51%
 }
 canva.display: block;
 }
-.p1{
+
+p1{
   color-text: orange;
   text-decoration: underline;
 }
 
-.h2{
+h2{
   background-color: black;
   color: white;
 }
