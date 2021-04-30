@@ -1,0 +1,26 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(20deg, rgb(140, 137, 206) 0%, rgb(177, 114, 175) 51%, rgb(116, 185, 199) 100%);
+    margin: 0;
+    padding: 0;
+}
+
+
+p1{
+  
+  margin: 25px 50px 75px 100px;
+  font-family: 'Poppins', sans-serif;
+  color: blue;
+  text-decoration: underline;
+}
+
+
+  
+
+
+h2{
+    text-align: center;
+font-family: 'Poppins', sans-serif;
+  background-color: black;
+  color: white;
+}
